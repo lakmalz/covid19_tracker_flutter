@@ -1,1 +1,1 @@
-# covid19_tracker_flutter
+# Covid-19 Tracker Flutter Application
