@@ -1,0 +1,11 @@
+{
+    "rest-client.environmentVariables": {
+        "sandbox": {
+            "baseUrl": "https://apigw.nubentos.com:443",
+            "authorization": "ZHdnb2ZmQzFwUTYyaW5TOFV5WTQybFNRTFRzYTplb0diQVJfcm1DYkZzcTd5ZUJQTGJjNXhWMXdh",
+            "accessToken": "eed31100-e7fe-3271-8e1f-b824158a936a"
+        },
+        "production": {
+        }
+    }
+}
